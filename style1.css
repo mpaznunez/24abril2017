@@ -1,0 +1,14 @@
+.about-text{border-bottom: 2px solid rgba(0, 0, 0, 0.5);
+margin-bottom: 3em;
+padding-bottom: 3em;}
+.title-text a:hover, a:focus, a:active{
+    text-decoration: none;
+}
+.banner-text h1{
+	font-size: 80px;
+	font-weight: 400;
+	font-family: 'Questrial', sans-serif;
+}
+.cita{padding-top: 1em;
+  margin-bottom: 2em;
+text-align: center;}
